@@ -1,0 +1,5 @@
+{
+  "name": "UTM to GeoJSON Converter",
+  "description": "An intelligent web application to convert UTM coordinates from an Excel file into a GeoJSON format, with AI-powered assistance for understanding geospatial data concepts.",
+  "requestFramePermissions": []
+}
